@@ -1,2 +1,6 @@
 20170718	0839
 Se crea la RamaA
+
+Línea 4
+
+Línea 6. Quizá luego se elimine esta oración.
